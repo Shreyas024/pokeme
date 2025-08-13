@@ -1,3 +1,2 @@
 # pokeme
-hi 
-#pokie
+sends messages
